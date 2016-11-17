@@ -6,8 +6,6 @@ permalink: /about/
 
 Hi, I’m a 21 year old football(not soccer!) enthusiast and full stack web engineer.
 
-Its in the year of 2015 that I entered the world of coding.
-
 I interned at Commonfloor which is a Realestate based startup which was acquired by a bigger fish Quikr in the first few months of 2016.
 
 I work as a backend developer writing services and scripts for Quikr Homes.
